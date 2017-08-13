@@ -8,25 +8,19 @@ The application is build using Laravel PHP Framework and it keeps the list of th
 
 3).	Once	logged	in:
 
-### a #
-A	trainer	is	able	to	see	other	trainers’	name,	hometown,	total	numbers	of	Pokémon they	have,	names	of	Pokémon they	
+a.) A	trainer	is	able	to	see	other	trainers’	name,	hometown,	total	numbers	of	Pokémon they	have,	names	of	Pokémon they	
 have,	and	whether	or	not	they	are	an	admin.	This	is present in the “Home” page.If the	logged-in	user	is	an	admin,	
 there	is	an	edit	button	for	them	so	that	they	can	do	part	c.	
 
-#### i 
-If	they	don’t	have	a	profile	yet,	the	“edit”	for	an	admin	button	is	shown.
+i. If	they	don’t	have	a	profile	yet,	the	“edit”	for	an	admin	button	is	shown.
 
-#### ii.
-If	they	don’t	have	a	profile	yet,	“N/A”	is	shown	in	those	related	cells.
+ii. If	they	don’t	have	a	profile	yet,	“N/A”	is	shown	in	those	related	cells.
 
-### b.
-A	trainer	is	able	to	create	their	profile.	
+b.) A	trainer	is	able	to	create	their	profile.	
 
-#### i.
-The	link	to	“my	profile”	is	on	top	of	“log	out”	
+i. The	link	to	“my	profile”	is	on	top	of	“log	out”	
 button	
-#### ii.
-Once	in	the	profile	page:
+ii. Once	in	the	profile	page:
 
 1. If	a	trainer	does	not	have	a profile	yet,	the	system lets	them	know.	
 
@@ -34,27 +28,20 @@ Once	in	the	profile	page:
 
 3. The	trainers is	able	to	edit	their	profile	information (including	name	and	email they	input	from	the	sign	up).
 
-#### iii. 
-The	trainer	should	not	be	able	to	edit	other	trainer’s	
+iii. The	trainer	should	not	be	able	to	edit	other	trainer’s	
 profile.
 
-### c. 
-Admin is	able	to	edit	everyone’s	profile.
+c.) Admin is	able	to	edit	everyone’s	profile.
 
-### d.
-Admin is able to	see	the “admin” button by	the	Navbar which allows him to access	the	admin	page.
+d.) Admin is able to	see	the “admin” button by	the	Navbar which allows him to access	the	admin	page.
 
-### e.
-A	trainer	is not	able	to	access	admin	page,	an	error	is	shown	if	they	attempt	to	access	the	page.
+e.) A	trainer	is not	able	to	access	admin	page,	an	error	is	shown	if	they	attempt	to	access	the	page.
 
-### f.
-Admin	is	able	to	add/delete	Pokémon to	the	system	database in	the	admin	page +	an	appropriate	error/success	
+f.) Admin	is	able	to	add/delete	Pokémon to	the	system	database in	the	admin	page +	an	appropriate	error/success	
 message	is	shown.
 
-### g. 
-If	a	Pokémon already	exists	in	the	system,	an	admin	is	not	able	to	add	it	again	(case-insensitive)	+	an	appropriate	
+g.) If	a	Pokémon already	exists	in	the	system,	an	admin	is	not	able	to	add	it	again	(case-insensitive)	+	an	appropriate	
 error/success	message	should	be	shown.
 
-### h. 
-There	is	a	search	bar	in	the	homepage	that	can	be	used to	search	for	Pokémon.	If	an	entry	exists,	a	trainer	is	be	
+h.) There	is	a	search	bar	in	the	homepage	that	can	be	used to	search	for	Pokémon.	If	an	entry	exists,	a	trainer	is	be	
 able	to	see	names	of	other trainers (Or just	number	of	trainers) who	have	that	Pokémon.
