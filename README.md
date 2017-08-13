@@ -8,12 +8,12 @@ The application is build using Laravel PHP Framework and it keeps the list of th
 
 3).	Once	logged	in:
 
-### a.
+### a
 A	trainer	is	able	to	see	other	trainers’	name,	hometown,	total	numbers	of	Pokémon they	have,	names	of	Pokémon they	
 have,	and	whether	or	not	they	are	an	admin.	This	is present in the “Home” page.If the	logged-in	user	is	an	admin,	
 there	is	an	edit	button	for	them	so	that	they	can	do	part	c.	
 
-#### i. 
+#### i 
 If	they	don’t	have	a	profile	yet,	the	“edit”	for	an	admin	button	is	shown.
 
 #### ii.
